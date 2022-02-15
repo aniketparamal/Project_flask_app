@@ -1,0 +1,5 @@
+make flasjk app of all the projects done in ml
+flask app should be pushed on github
+signup in horeku
+create an account on aws
+download software for AWS required for windows
